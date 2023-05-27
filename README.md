@@ -10,7 +10,8 @@
 | [Data Fundamentals](data-fundamentals) | 27/05/2023 | An overview of data, what is data, where it comes from, an introduction to databases, database management systems (DBMS), and the SQL data query language|
 
 
-**data-fundamentals**
+
+# Data Fundamentals
 
 | Qualitative Data| Quantitative Data |
 |---|---|
