@@ -51,4 +51,25 @@ is a standard programming language used for managing and manipulating relational
 | Character |  - **CHAR** : store fixed-length character strings with a predetermined length. - **VCHAR**: store variable-length character strings. - **TEXT**: store character strings with a length larger than CHAR and VARCHAR (> 255). - **NCHAR**:  is similar to CHAR but is used to store Unicode character strings. - **NVARCHAR**: is similar to VARCHAR but is used to store Unicode character strings. - **NTEXT**: is similar to TEXT but is used to store long Unicode character strings. |
 | Numeric | -**Exact Numeric**: numeric/int-tinyint-smallint-bigint/decimal/money-smallmoney/bit. -**Appropriate Numeric**: float/real |
 
+**Type of SQL Commands**
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c3172f50-26da-4306-9799-da55d5a2bb54)
+
+DDL commands
+| Command | Syntax | Example
+|---|---|---|
+| CREATE |![image](https://github.com/Fuuko209/self-studied/assets/103474817/96dd7117-a3c5-4eb9-8acf-1b2b58e02538) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d0aa0b3e-3882-4586-8524-28f371653a24) |
+| ALTER | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/36230784-9994-4c2c-bc7c-f18eae00e5d3) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5433915c-94ae-42ba-90db-6f62afe81c50) |
+| DROP | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f0d3894e-aa97-41c5-94f7-cbe68033c1ad) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/9ab0fe9b-107a-425b-ae29-100f7ac923b8) |
+| TRUNCATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/926ff3c9-44b2-4e10-8ccf-be74f18baac4)  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b9f50d66-4510-4839-b7be-ba5a723f4232) |
+
+
+
+
+
+
+
+
+
+
 
