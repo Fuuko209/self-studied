@@ -3,6 +3,7 @@
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
+- [Analytical Thinking](#analytical-platform)
 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -73,10 +74,23 @@ is a standard programming language used for managing and manipulating relational
 |WHERE | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8ad31093-8d5c-4cf9-89b3-b03ae385737a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5f8e15d8-c3be-41a1-917b-e4c03a8c1c01) |
 
 
+# Analytical Thinking
 
+### Type of Data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/88052054-94e4-4dfa-b882-ee597160b66b)
 
+### What can data do
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f9962cf2-5095-4c00-8164-8dc20706b589)
 
+### How enterprise can do with data?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9388a8e4-4844-44b5-998e-eabe8a0efaa0)
 
+### What are the four types of data analytics?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4d57da5c-7c1e-4141-837f-a086002dc7a5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4b84c077-0908-407c-ba6a-9a7947d83467)
+
+### What kind of dashboard and report?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
 
 
