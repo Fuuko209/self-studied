@@ -3,9 +3,6 @@
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
-- [Analytical Thinking](#analythical-thinking)
-- [Analytical Thinking](#analythical-thinking)
-- [Data Engineering](#data-engineering)
 - [Analytical Thinking](#analytical-thinking)
 
 # SQL
