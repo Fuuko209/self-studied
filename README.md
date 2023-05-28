@@ -3,7 +3,7 @@
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
-- [Analytical Thinking](#analytical-platform)
+- [Analytical thinking](#analytical-platform)
 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -74,7 +74,7 @@ is a standard programming language used for managing and manipulating relational
 |WHERE | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8ad31093-8d5c-4cf9-89b3-b03ae385737a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5f8e15d8-c3be-41a1-917b-e4c03a8c1c01) |
 
 
-# Analytical Thinking
+# Analytical thinking
 
 ### Type of Data
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/88052054-94e4-4dfa-b882-ee597160b66b)
