@@ -92,8 +92,7 @@ is a standard programming language used for managing and manipulating relational
 ### What kind of dashboard and report?
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
-# Data Engineering
-# Analytical Thinking
+
 
 
 
