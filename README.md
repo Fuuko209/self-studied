@@ -66,7 +66,7 @@ is a standard programming language used for managing and manipulating relational
 
 **DML commands (Database Manipulate Language)**
 
-| Command | Syntax | Example
+| Command | Syntax | Example |
 |---|---|---|
 | INSERT | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/63c624ab-91ac-4c87-915c-fcec47a33dd3) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b749f1bf-2752-4f2f-85c9-70577a20155e) |
 | UPDATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/55c23c6d-bf9c-4745-ba19-f168978282eb) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ea2072e4-d305-4a63-b37a-4921de8aa1b2) |
@@ -74,8 +74,10 @@ is a standard programming language used for managing and manipulating relational
 |WHERE | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8ad31093-8d5c-4cf9-89b3-b03ae385737a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5f8e15d8-c3be-41a1-917b-e4c03a8c1c01) |
 
 **DQL commands (Database Query Language)**
+
 | Command | Syntax | Example |
-| TOP | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f7e796c3-892c-4b5e-b909-bc413336d717) |
+|---|---|---|
+| TOP | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f7e796c3-892c-4b5e-b909-bc413336d717) |
 | DISTINCT | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/216b43e4-cf9d-400a-9c42-cb8a151bbcea) |
 | ORDER BY | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/03c0ebb6-8bdb-4224-92de-0fc85a9658ef) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/9d0b4475-b609-4ffa-a342-c5c146071a87) |
 | AND | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/2f03cb1b-3dcd-4453-b88a-b824804d5743) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/684acc73-6145-40ee-bd75-a41a7e53dcce) |
@@ -83,12 +85,18 @@ is a standard programming language used for managing and manipulating relational
 | IN | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/a1118635-1f24-48c7-baf1-399f1ba2a65c) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ee5cab19-efcb-48bb-8b3e-b1aa55fbde4f) |
 | NOT | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b3b6b082-875b-4f94-bd61-b74699d99be7) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5241f91b-ffcb-4b6c-8138-a2ac18822c3a) |
 | BETWEEN | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/53a82120-1d78-4687-9e09-48fe00d8dc21) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1992ab67-28c2-4fce-a3cd-e5d9489db39a) |
-| LIKE | - The **"%"** symbol is used as a wildcard to represent zero, one, or multiple characters in a search pattern. - The **"_"** (underscore) character is used to represent a single character in a search pattern.|    ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b0ce84d6-baad-4df6-982e-c77cd15f2956)  |  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/558738ab-76f0-4b2d-abab-9165f860f460)
+| LIKE | - The **"%"** symbol is used as a wildcard to represent zero, one, or multiple characters in a search pattern. - The **"_"** (underscore) character is used to represent a single character in a search pattern. ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b0ce84d6-baad-4df6-982e-c77cd15f2956)  |  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/558738ab-76f0-4b2d-abab-9165f860f460) |
+| "+", "-", "*", "/", "%", ROUND, FLOOR, CEILING|
+| IS NULL / IS NOT NULL | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/4c9f401e-11b5-4bdd-9bb2-7794371c9090) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/a1288369-2412-4700-a970-1b9f12e1bb44) |
+| ISNULL | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/16c1e09a-bc1b-402c-a79c-aaa3b6a57425) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b96d8ef2-17d6-4ede-8c4e-9c8c3eb505bf) |
 
 
 
 
-|||
+
+
+
+
 
 
 
