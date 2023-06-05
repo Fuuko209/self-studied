@@ -91,33 +91,30 @@ is a standard programming language used for managing and manipulating relational
 | ISNULL | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/16c1e09a-bc1b-402c-a79c-aaa3b6a57425) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b96d8ef2-17d6-4ede-8c4e-9c8c3eb505bf) |
 | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0484ba39-6ee9-4333-9912-4f608046987d)| ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e84ff36f-9dc4-4aec-99ba-cbde3e928914) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0c356cb3-b395-455a-82cc-d9c490793558) |
 | UNION / UNION ALL| Have to ensure : 1. The number of columns, 2. Data types. UNION: eliminates duplicate rows from the final result set.UNION ALL: does not remove duplicate rows.![image](https://github.com/Fuuko209/self-studied/assets/103474817/d078c05c-7e9e-4cdd-8a7b-bb988dac860a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/dbdc5867-acff-4313-9d9c-d23dadb6a7b6) |
-| DATEDIF | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1e6dbbc0-7164-43f1-a506-81f80f8da6f3) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/129aad09-0919-4da7-9a9e-b3d508df1a31) |
-| DATEPART | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4a577e8-0549-4905-a986-1dee6d67fbc4) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/73f72d86-8147-4839-9a44-b852a62b5f98) | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| DATEDIF | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1e6dbbc0-7164-43f1-a506-81f80f8da6f3) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27fd02e0-5691-4d4f-88ed-a3a5222d63a4)
+ | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/129aad09-0919-4da7-9a9e-b3d508df1a31) |
+| DATEPART | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4a577e8-0549-4905-a986-1dee6d67fbc4) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/be2da12e-1ebd-4406-8ed1-df6ef4afee69)
+ | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/73f72d86-8147-4839-9a44-b852a62b5f98) | 
+ | CURRENT_TIMESTAMP | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/58a286da-e85a-453f-8c96-ebdfc6d0b184) |
+ | DATEADD | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f67bb839-e97c-47fa-8848-c81b23df47d3) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/69af9d6b-8915-425d-8999-bf66d529785d)
+| DATEFROMPARTS | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/110263f8-0bac-41e0-a20d-845ca5d8e84d) |
+| DATENAME | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/37ab1c31-0dc0-4fad-a20b-a9b0ea76304a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b97bf578-1886-4f07-acdd-e1d4ba339848) |
+| DAY | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/4426522f-2973-4092-bd1a-4db69b154409) |
+| MONTH | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d9f70e99-7efe-4b26-9d03-b709dfb80034) |
+| YEAR | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/2c53e939-cc77-4a80-a0ff-245071d29775) |
+| GETDATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/46619a47-e6ae-43b7-8a43-0b0b13bdfa8f) | 
+| GETUTCDATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/00e66da6-99e0-4b77-9563-1fc5a30b89f6) |
+| SYSDATETIME | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b204fe33-838c-4415-8c00-a1a355968ee2) |
+| CAST | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/4e4f8e20-be7b-492a-a015-06fb0c171197) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/83b301cd-64d2-4498-9462-236e4a268330) |
+| CONVERT | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/da34cc12-95e8-448c-906c-882a8bf1c79a) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/94c3998a-869a-4ca2-8dcf-0d1bcfa6b86a) |
+| COALESCE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/c5c61c84-96d1-43ac-b710-fbc5988ab73e) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/36bdaf71-a8f0-4650-8aef-5dfacf348f8f) |
+| ISNULL | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/70f29402-c964-4a69-a20b-10edc6dd3dd1) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/29f63006-11c1-4b5a-a747-fb87e0017cb4) |
+| ISNUMERIC | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/a94c54ad-e803-4459-b4a9-762a3b4cecad) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/04934720-565c-4588-9c25-efa7e54e654f) |
+| ISDATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8ed5075b-ff87-489e-b2ed-8645cddd1aa2) |
+| CONCAT | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ded46e7d-30ce-4ead-afa2-a027e55bdc6d) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/da0c571b-8066-49ac-adee-f5902dc221c2) |
+| REPLACE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/859c4076-508e-4bea-93c6-6d7808836c8c) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/c772c7c8-dbed-4e53-bf6b-e805cf139850) |
+| REPLICATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/568ae8dc-0b7f-41af-b7d4-74c1b72bcd6c) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/dc3d371b-1e30-4a35-aaf9-810c2826ad4f) |
+| REVERSE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0fefb869-ded0-4a4f-824a-e99499c5c099) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/4f99ec19-239a-4f25-878c-6c0ed588e6b7) |
 
 
 
