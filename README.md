@@ -72,6 +72,9 @@ is a standard programming language used for managing and manipulating relational
 | UPDATE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/55c23c6d-bf9c-4745-ba19-f168978282eb) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ea2072e4-d305-4a63-b37a-4921de8aa1b2) |
 | DELETE | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/02793ed7-86f9-4de8-a967-d5029c53a25a) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/9b9df31d-4b33-4ee7-b5d8-c520a2aa0c93) |
 |WHERE | | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8ad31093-8d5c-4cf9-89b3-b03ae385737a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5f8e15d8-c3be-41a1-917b-e4c03a8c1c01) |
+**SQL statement execution order**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3a57fb38-3529-48f8-9add-bc593b742528)
+
 
 **DQL commands (Database Query Language)**
 
@@ -91,10 +94,8 @@ is a standard programming language used for managing and manipulating relational
 | ISNULL | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/16c1e09a-bc1b-402c-a79c-aaa3b6a57425) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b96d8ef2-17d6-4ede-8c4e-9c8c3eb505bf) |
 | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0484ba39-6ee9-4333-9912-4f608046987d)| ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e84ff36f-9dc4-4aec-99ba-cbde3e928914) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0c356cb3-b395-455a-82cc-d9c490793558) |
 | UNION / UNION ALL| Have to ensure : 1. The number of columns, 2. Data types. UNION: eliminates duplicate rows from the final result set.UNION ALL: does not remove duplicate rows.![image](https://github.com/Fuuko209/self-studied/assets/103474817/d078c05c-7e9e-4cdd-8a7b-bb988dac860a) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/dbdc5867-acff-4313-9d9c-d23dadb6a7b6) |
-| DATEDIF | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1e6dbbc0-7164-43f1-a506-81f80f8da6f3) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27fd02e0-5691-4d4f-88ed-a3a5222d63a4)
- | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/129aad09-0919-4da7-9a9e-b3d508df1a31) |
-| DATEPART | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4a577e8-0549-4905-a986-1dee6d67fbc4) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/be2da12e-1ebd-4406-8ed1-df6ef4afee69)
- | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/73f72d86-8147-4839-9a44-b852a62b5f98) | 
+| DATEDIF | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1e6dbbc0-7164-43f1-a506-81f80f8da6f3) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27fd02e0-5691-4d4f-88ed-a3a5222d63a4) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/129aad09-0919-4da7-9a9e-b3d508df1a31) |
+| DATEPART | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4a577e8-0549-4905-a986-1dee6d67fbc4) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/be2da12e-1ebd-4406-8ed1-df6ef4afee69)| ![image](https://github.com/Fuuko209/self-studied/assets/103474817/73f72d86-8147-4839-9a44-b852a62b5f98) | 
  | CURRENT_TIMESTAMP | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/58a286da-e85a-453f-8c96-ebdfc6d0b184) |
  | DATEADD | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f67bb839-e97c-47fa-8848-c81b23df47d3) ![image](https://github.com/Fuuko209/self-studied/assets/103474817/69af9d6b-8915-425d-8999-bf66d529785d)
 | DATEFROMPARTS | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/110263f8-0bac-41e0-a20d-845ca5d8e84d) |
@@ -130,10 +131,21 @@ is a standard programming language used for managing and manipulating relational
 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/65a4befb-764e-42cd-802d-ee7fdf1bfe5e)
 
+**Case When**
+| Simple Case | Searched Case |
+|---|---|
+| ![image](https://github.com/Fuuko209/self-studied/assets/103474817/59592e59-4ee2-464c-aee6-5eeaad83e303) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f10c0608-b886-4789-b89f-09570b6d7445) |
 
-
-
-
+**Subquery**
+Subqueries can be nested within clauses of a query statement like:
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7782f579-ee3e-4e16-aaa4-26d740dbbb8e)
+**CTE**(Common Table Expression)
+Have to use them within the main query; if trying to run the CTE separately, the query statement will throw an error.
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3f8b8929-d6b6-4333-b55b-044562ed9f85)
+**Window Function**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6b58d90c-2b07-4972-8eb9-f8b1aee3b9e4)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ce06a51d-c690-4cad-abb9-781a92ea5d38)
+Lower Bound needs to be placed BEFORE the Upper Bound
 # Analytical Thinking
 
 ### Type of Data
