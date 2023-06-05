@@ -142,10 +142,24 @@ Subqueries can be nested within clauses of a query statement like:
 **CTE**(Common Table Expression)
 Have to use them within the main query; if trying to run the CTE separately, the query statement will throw an error.
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/3f8b8929-d6b6-4333-b55b-044562ed9f85)
+
+
+
 **Window Function**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6b58d90c-2b07-4972-8eb9-f8b1aee3b9e4)
+
+
+Window_Function:
+| Aggregate Functions | Ranking Functions | Analytic Functions |
+|---|---|---|
+| ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7e7b3e02-afa5-4bbc-b236-52101411cb9e) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/2a309ec4-0c75-4b27-9db0-4ca537c3819f) | ![image](https://github.com/Fuuko209/self-studied/assets/103474817/61d7bf7c-b218-4008-b080-71fae4636897) |
+
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ce06a51d-c690-4cad-abb9-781a92ea5d38)
 Lower Bound needs to be placed BEFORE the Upper Bound
+
+
+
+
 # Analytical Thinking
 
 ### Type of Data
