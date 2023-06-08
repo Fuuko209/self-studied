@@ -183,6 +183,158 @@ Lower Bound needs to be placed BEFORE the Upper Bound
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
 
+# Python
+
+### Data Type
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f11f3211-b2ff-4b6a-8e1b-529e185199a9)
+ USE TYPE FUNCTION TO DETECT DATA TYPE
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c626686f-2b9b-4030-9ac1-8007da1500b0)
+USE TYOE CONVERSION
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d390a732-089b-4f72-bfd2-ef89fce2315f)
+MUTABILITY
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d8e206c0-1bbf-4c54-9b3b-bbe7cb5dee9e)
+VARIABLES NAMING RULES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f4d2a7df-5fd4-436c-9c87-e7e2bc6e3e8a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/14e93f0a-a24a-415f-9129-d45ba1a79871)
+TRACKING VARIABLES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d94f129e-1b99-4a96-ad2a-d8856f48a467)
+ARITHMETIC OPERATORS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e6b9a16a-b46c-4e8a-b2d6-375511fede00)
+ORDER OF OPERATIONS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1255cb6a-f29c-4b90-8223-3b75c55cbce4)
+STRING SLICING
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c77ed905-40da-473b-81f7-8599a94429a9)
+STRING METHODS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/feacab51-5200-4c24-a177-4cdfb1e78eea)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5e8c6e85-7756-49ab-b78b-e870ea0aa04d)
+F-STRINGS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/851812f5-d32b-4c32-b6d1-c7cc21defd3e)
+COMPARISON OPERATORS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/56512c48-c9a4-4574-9a35-3ce89dc22cb0)
+THE IF STATEMENT
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fa67cb05-a8ee-41a9-8797-ac2dd1cd3cc5)
+
+**LIST**
+UNOACKING LIST
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a77af057-0334-4eda-bdda-8d5d17995d98)
+CHANGING LIST ELEMENTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f71cfba8-ea2b-46ae-92e8-d2e560804dd5)
+ADDING LIST ELEMENTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9deefd0b-b536-4779-9265-4d46c22ef500)
+COMBINING & REPEATING LISTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bc8fc443-c280-4a7e-8aea-3d2a711c6fa2)
+REMOVING LIST ELEMENTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/146b2616-f63d-461d-b1c3-d34c864160b9)
+LIST FUNCTION
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a2e1ae5c-b356-4866-ad1f-3dbed080fb08)
+SORTING LISTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2fc9f1e2-73db-4d56-a4ef-785030b9e977)
+LIST METHODS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/566dbaee-e41c-4e61-a02f-6b573df403ce)
+NESTED LISTS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fd3f793a-df8e-4f44-89cb-0f8ecbd1590b)
+COPYING LIST
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0513318e-5a9b-4ca0-8b4c-f6459b5b7f43)
+.Copy()
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/db056b45-9ebc-483e-ae8b-f83ce4558b8d)
+.Deepcopy()
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8f866dff-a9ff-4416-962f-88fd632cb234)
+
+**TUPLES**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/df8f5233-801b-4072-b603-56686a23c856)
+WHY USE TUPLES?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/698ba5db-ebbb-46cd-9cf6-28bed716bf43)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a4916ec2-4453-40d7-81eb-2a8b72822bd8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/27a3e626-1881-4f68-8196-f323c9dd73dc)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7a514a8d-edb8-439d-91df-0ebb85f41c74)
+
+**RANGES**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/44ee14c1-fbd1-4786-9d1e-1a86d0ada0d7)
+
+**LOOPS**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fac89d45-27d4-4beb-a52d-5c2f27cfd280)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf5b73e4-02c1-4ce5-93d4-fca4afd8c3d1)
+PRO TIP :ENUMERATE
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8c55dac5-d011-416b-9067-ac72e5284956)
+
+**WHILE LOOPS**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f0c5c448-fb1d-46a4-9505-bd9f5f533008)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fc2a8f4b-4946-4475-aaa9-424ce8e835d0)
+
+**LOOP CONTROL**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/49ebe939-8f0b-4b39-a8a9-3efca13ebebb)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/796fa03e-9360-4070-a238-afc949368230)
+
+**DICTIONARY**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4e24d56f-ea3f-4951-ad40-b0395ad00cb7)
+MODIFYING DICTIONARIES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/876fcd25-6552-422c-8569-b78563776917)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/afc9a52c-e8a8-4fa2-ac79-fd8ea5c7e96c)
+DICTIONARY METHODS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/780b3e05-0164-4087-86a0-843ba79787c4)
+GET
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/aa73ee96-e6a5-43ce-a80f-5b206757a3e0)
+UPDATE
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5e235656-9f59-407a-b0e4-81d2b3c3fda9)
+ZIP
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7947a042-8a7d-4c69-b3be-9bf6a7a46080)
+
+**SETS**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b41c09ec-8766-4afa-8eb4-0461b21847d1)
+SET OPERATIONS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c9072ca5-c1f5-4091-b962-e5e44797d4da)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a682dd90-6522-42db-ba89-f19dc47b19ba)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c3c746ce-8f7f-4e65-b955-78eb180463e0)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7b100238-1c1c-458b-a212-d9af768c7a64)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6aa4c334-02eb-4309-b6bc-9937114f7fcb)
+**DEFINING A FUNCTION**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/25b2bf2f-a25b-4b26-8e52-08897a635003)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2986f144-cf75-4b06-bc89-fd422ba37b51)
+THE DOCSTRING
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7860e678-f6e8-4bed-ae3b-03606b989a93)
+ARGUMENT TYPES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6b23374a-48d3-4dc6-ac50-2dea0ca24b79)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1ad586b5-6aab-47c4-b731-6c1d7f602576)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9540ea3c-eec2-4263-905b-2318f04fc4f0)
+VARIABLE SCOPE
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9cdae349-c132-4dc1-95d9-fd1fc9f78220)
+
+CREATING MODULES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1736cb9d-d305-4fff-b31e-8e1b8049bf73)
+IMPORT MODULES
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1422f398-5e30-4752-92bd-36827a9ca315)
+
+IMPORTING EXTERNAL FUNCTIONS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6b15a80e-8f58-464d-a0e4-a947c95ba98a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1c0d43ad-618f-4bf6-85c9-5247579640f6)
+
+LAMBDA FUNCTIONS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/57dd42bd-ce72-4443-8631-d66646efc0da)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c013eb95-5e54-4339-b382-ae944d220671)
+
+COMPREHENSIONS
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/eaa0acdb-f592-4d38-bd42-af69697125b3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a796c6b1-ddbe-440f-9c96-14e4dc78dee5)
+
+COMPREHENSIONS VS MAP
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/086b0182-4327-4809-8543-7811564a5749)
+
+**MANIPULATING EXCEL SHEETS**
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0fe3e62e-ccb6-4ad1-be8c-6228b2e62c2e)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/363246fc-29c1-4bfc-a6c9-23b0fd109086)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/28be0278-f66b-4575-99c1-b125cc32375b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c11a27ac-2be6-49b1-8901-6b8d23307a48)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8a6147a7-12e9-443b-8ea9-51dd44a7e409)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/eff753c9-28f9-46d5-8367-ea62ead434c4)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/22db73ee-688a-4298-af1d-90922c87afd8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b65cb6aa-725d-4adc-8c56-2ac181535875)
+
+
+
+
+
+
 
 
 
