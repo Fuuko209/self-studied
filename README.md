@@ -164,25 +164,6 @@ Lower Bound needs to be placed BEFORE the Upper Bound
 
 
 
-# Analytical Thinking
-
-### Type of Data
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/88052054-94e4-4dfa-b882-ee597160b66b)
-
-### What can data do
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/f9962cf2-5095-4c00-8164-8dc20706b589)
-
-### How enterprise can do with data?
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/9388a8e4-4844-44b5-998e-eabe8a0efaa0)
-
-### What are the four types of data analytics?
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/4d57da5c-7c1e-4141-837f-a086002dc7a5)
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/4b84c077-0908-407c-ba6a-9a7947d83467)
-
-### What kind of dashboard and report?
-![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
-
-
 # Python
 
 ### Data Type
@@ -331,7 +312,37 @@ COMPREHENSIONS VS MAP
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b65cb6aa-725d-4adc-8c56-2ac181535875)
 
 
+# Power Platform
+Power Apps components
+| Power Apps Home Page | Power Apps Mobile | Power Apps Admin Center |
+|---|---|---|
 
+### Way to build Power App
+1. Create an app from a template
+2. Create an app from a data source
+3. Build from a blank canvas
+
+
+
+
+
+# Analytical Thinking
+
+### Type of Data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/88052054-94e4-4dfa-b882-ee597160b66b)
+
+### What can data do
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f9962cf2-5095-4c00-8164-8dc20706b589)
+
+### How enterprise can do with data?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9388a8e4-4844-44b5-998e-eabe8a0efaa0)
+
+### What are the four types of data analytics?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4d57da5c-7c1e-4141-837f-a086002dc7a5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4b84c077-0908-407c-ba6a-9a7947d83467)
+
+### What kind of dashboard and report?
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
 
 
