@@ -4,7 +4,7 @@
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
 - [Analytical Thinking](#analytical-thinking)
-- [Digital Marketing and E-Commerce]. (#digital-marketing-and-e-commerce}
+- [Digital Marketing and E Commerce]. (#digital-marketing-and-e-commerce}
 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -346,10 +346,15 @@ Power Apps components
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
 
-# Digital Marketing and E-Commerce
-
-
-
+# Digital Marketing and E Commerce
+Digital marketing advantages
+| Reduces wasteful spending | Adapts to new technologies | Reaches target audiences with more precision |
+|---|---|---|
+| Digital marketing uses content in a variety of formats that can be easily converted from one format to another, making spending more cost-effective | When marketers receive data faster, they’re able to change direction easily if a marketing effort isn’t producing the results expected. Measuring the success of digital marketing campaigns is key to ensuring that you get the results you want. | Ad visibility and audience coverage can be tailored to meet your specific business needs and goals. | 
+| **Advantage**: Digital content is easier to create. |**Advantage**: Digital marketing adapts to new technologies. |**Advantage**: Digital marketing adapts to new technologies. | **Advantage**:Digital marketing tools expand customer reach using specific audiences. |
+| **Challenge**: the integration or synchronization of content on multiple channels—so customers can have a consistent brand experience. This increases the amount of content required, so even if it’s easier to create digital content, much more content needs to be created overall | **Challenge**: Marketers must also stay up-to-date with and follow all user privacy and data sharing regulations worldwide. | **Challenge**: The digital space is a crowded field that’s getting even more crowded. It’s harder for marketers to stand out with their advertising, even when they are targeting the right audiences. |
+| **Advantage**: Digital marketing is more cost-effective than traditional marketing.|
+| **Challenge**:  Getting support or buy-in for extra or additional budget to cover the cost can be difficult. |
 
 
 
