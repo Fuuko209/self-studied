@@ -4,6 +4,7 @@
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
 - [Analytical Thinking](#analytical-thinking)
+- [Digital Marketing and E-Commerce]. (#digital-marketing-and-e-commerce}
 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -345,7 +346,7 @@ Power Apps components
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/27efa9a3-8937-4cda-8d1c-a047d1956360)
 
 
-
+# Digital Marketing and E-Commerce
 
 
 
