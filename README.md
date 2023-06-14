@@ -347,7 +347,7 @@ Power Apps components
 
 
 # Digital Marketing and E Commerce
-Digital marketing advantages
+### Digital marketing advantages
 | Reduces wasteful spending | Adapts to new technologies | Reaches target audiences with more precision |
 |---|---|---|
 | Digital marketing uses content in a variety of formats that can be easily converted from one format to another, making spending more cost-effective | When marketers receive data faster, they’re able to change direction easily if a marketing effort isn’t producing the results expected. Measuring the success of digital marketing campaigns is key to ensuring that you get the results you want. | Ad visibility and audience coverage can be tailored to meet your specific business needs and goals. | 
@@ -356,8 +356,36 @@ Digital marketing advantages
 | **Advantage**: Digital marketing is more cost-effective than traditional marketing.|
 | **Challenge**:  Getting support or buy-in for extra or additional budget to cover the cost can be difficult. |
 
+### Inclusive markeing
 
+**Making inclusive choices and avoiding stereotypes**
+Here is a list of some identity traits that are helpful to keep in mind when you’re creating marketing or advertising materials for the people you’re trying to reach
 
+Race
+
+Socioeconomic status
+
+Age
+
+Ability
+
+Gender
+
+Sexual orientation
+
+Religion
+
+Geographic location
+
+Culture
+
+Political perspective
+
+Military status
+
+Languages spoken
+
+As an example, at least one billion people in the world live with a disability. If your product or service isn’t accessible to these people, they likely don’t use or even know about your product or service. And if your company’s marketing efforts don’t feature people with disabilities or address their needs, they may not view your company’s products or services as relevant to them.
 
 
 
