@@ -387,6 +387,61 @@ Languages spoken
 
 As an example, at least one billion people in the world live with a disability. If your product or service isn’t accessible to these people, they likely don’t use or even know about your product or service. And if your company’s marketing efforts don’t feature people with disabilities or address their needs, they may not view your company’s products or services as relevant to them.
 
+**The customer journey**: The path a customer takes from learning about a product to getting questions answered to making a purchase.
+**Customer journey map**: A visualization of the touchpoints a typical customer encounters along their purchase journey.
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/82e37548-c0ec-40b3-9ae8-43317a5bfb92)
 
 
+**The marketing funnel**: A vissual representation of the process through which people go from fist learning about a brand to becoming loyal customers.
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/79930b7d-cc70-4973-9505-1380221b61d7)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2fe9467e-bf99-4244-b104-ae0ea394534b)
 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c6d7e2aa-a73e-434e-b14f-7220c81e37b1)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/63b3527a-4192-4d6f-8a1f-b2ff7cc0bba9)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c5d2965e-0289-4fd8-82ea-8ba31deb5ab1)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/94224059-89e6-4de5-859c-f8f4fb6ca22f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/84a1a597-5975-4c03-9c95-c0672b53104c)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fc50c5b8-932c-494d-9f0d-581557988657)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/33067060-2be1-486d-94d7-2162721d1ce8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7c605615-356a-439e-9cab-10609e666ac3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9cd88ba3-409f-4e8b-98f0-e6907c3d9f32)
+
+**Awareness tactics**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/950a3ab6-206a-49ad-88f0-d378572ad22b)
+**Messuring awareness**: A digital marketer can measure the awareness of their ads by tracking Impressions, Reach, Frequency
+
+
+**Consideration tactics**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e9a0c5c1-d2fa-4b83-96c2-10068a037084)
+
+**Measuring considerations**: 
+1. How often customers search for your business online?
+2. Number of first-time visitor
+3. Number of pages per visitor
+4. How long visitors spend on a page
+5. Email or newsletter signup
+**Conversion tactics**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7c326ab0-01c9-4a5f-9af8-e7f8ca7be351)
+**Measureing conversion**
+1. The number of converion
+2. Time to conversion
+3. Cost per conversion
+4.  Average number of touchpoints
+5. Average order size
+**Loyal tactics**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3a2f6ba4-2c4c-4a6b-bf21-74def005bcc5)
+**Measuring loyalty**
+1. Rate of repeat purchases
+2. Length of time between purchases
+3. Number of orders per customer
+4. Rate of account activation after sign-up
+5. Engagement with rewards programs.
+
+**The future of e-commerce**
+
+1. Specialization ò smaller retailers.
+2. Immersive customer experiences
+    + Virtual reality (VR)
+    + Augmented reality (AR)
+    + Chatbots
+4. Distribution and delivery innovations
