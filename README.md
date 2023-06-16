@@ -422,14 +422,17 @@ As an example, at least one billion people in the world live with a disability. 
 5. Email or newsletter signup
 **Conversion tactics**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7c326ab0-01c9-4a5f-9af8-e7f8ca7be351)
-**Measureing conversion**
+
+**Measuring conversion**
 1. The number of converion
 2. Time to conversion
 3. Cost per conversion
 4.  Average number of touchpoints
 5. Average order size
+   
 **Loyal tactics**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/3a2f6ba4-2c4c-4a6b-bf21-74def005bcc5)
+
 **Measuring loyalty**
 1. Rate of repeat purchases
 2. Length of time between purchases
@@ -445,3 +448,48 @@ As an example, at least one billion people in the world live with a disability. 
     + Augmented reality (AR)
     + Chatbots
 4. Distribution and delivery innovations
+
+**Business Goals:** focused on desired aims, achievements, or outcomes for a business. Business goals typically include things like: increasing profits, gaining new customers, improving customer service, raising productivity, or launching new products or services.
+**Marketing Goals:** focused on specific objectives in a marketing plan or strategy that should support a business's larger aims. Marketing goals typically include things like: raising brand awareness, increasing web traffic, generating new leads, and driving sales or conversions.
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/207d619a-1613-46b4-8145-92391f0d133e)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/56fb4f54-b1c5-4c50-af2b-15a3801fadca)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/afc65732-7f55-470e-9c77-f939aaf3e4b9)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8147480a-ee9b-4acb-aa65-6c7e8a396a05)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2c710365-bda9-4949-a8ed-faeced53ee7f)
+
+**SEO** Search engine optization: A set of practices designed to increase the quanity and quality of trafic to website
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d9b229cb-96be-465d-9bec-51fde02b6cc5)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f5fa7619-ff6c-4a35-8d64-11ef5932ec64)
+
+**SERPS** Search engine result pages: produced when someone performs a search
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/06f83264-efb6-4039-9ec4-2e67b17ec0e1)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9683ee2b-900e-4337-94a4-c90764dd222f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/22cb4dae-8fa1-4d82-a232-0a39cb767a43)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2dc6bb15-6df5-40da-a1ed-a33368ecc56f)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/165bf3aa-2c32-47db-b434-74f67271abfe)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0f7717d0-bd24-4406-a009-e71a61e80472)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/681952b1-2740-4d20-9828-2e7ca6d1d960)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e025584f-8855-4484-b793-b8b9f66d48b8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/35e3bf33-3567-45be-b8ae-2c6d168ce67a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4d303e1d-1e86-4520-93b9-36f0b5f95d57)
+
+**Build relationships with email marketing:**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/adc1c9ce-0186-4388-bd76-30488483975f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/421a68d9-e83c-4a5c-bbbb-4ddbe3609334)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/eb7a8661-c1e3-448c-854c-6f920887c532)
+
+
+
+
+
+
+
+
+
+
+
