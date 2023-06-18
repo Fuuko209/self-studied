@@ -4,7 +4,7 @@
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
 - [Analytical Thinking](#analytical-thinking)
-- [Digital Marketing and E Commerce]. (#digital-marketing-and-e-commerce}
+- [Digital Marketing and E Commerce]. (#digital-marketing-and-e-commerce)
 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -323,10 +323,12 @@ Power Apps components
 2. Create an app from a data source
 3. Build from a blank canvas
 
-**Build a mobile-optimized app from Power Apps**
+### Build a mobile-optimized app from Power Apps**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5d4406a2-c588-4310-94cb-c030a2b6f933)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/895f76c9-ed20-45fa-bab3-428849d6f809)
 https://learn.microsoft.com/en-gb/training/modules/build-mobile-optimized/components
+**Identify performance considerations for a mobile-optimized canvas app**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/77c6708b-a64e-47d9-9835-3ef5372fc6de)
 
 
 # Analytical Thinking
