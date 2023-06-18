@@ -330,6 +330,8 @@ https://learn.microsoft.com/en-gb/training/modules/build-mobile-optimized/compon
 **Identify performance considerations for a mobile-optimized canvas app**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/77c6708b-a64e-47d9-9835-3ef5372fc6de)
 
+### Power Automate
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6b5f3e46-ca36-457b-b917-1cfed75dfd14)
 
 # Analytical Thinking
 
