@@ -489,9 +489,22 @@ As an example, at least one billion people in the world live with a disability. 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/421a68d9-e83c-4a5c-bbbb-4ddbe3609334)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/eb7a8661-c1e3-448c-854c-6f920887c532)
 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4d032c48-b63b-4a13-94cb-65dfc74a8a6a)
 
+**Attribution models for digital marketing**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/03b2015a-9066-4f9d-8185-83be755c15e6)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f026ec91-5a82-4950-a631-8f3a5f9d71db)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2b81f710-6e34-4367-aa8f-4b5ad5d3c3f3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9610e190-d655-4856-a012-13a533838ef5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/93e433ec-9273-447a-96fa-3f2dbf26bdc3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e7984718-700f-4216-b662-1c3e52b2e1ec)
 
+**Data storytelling**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e6eea539-5b87-4cd5-9608-7101a473df28)
 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4b96fa72-dcfd-43ac-b90a-c30963ccc35c)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8115574e-b3d3-4d1c-9b3c-3491e6188c48)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d8880ec7-b913-4799-bb65-82ac64579639)
 
 
 
