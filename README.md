@@ -4,8 +4,9 @@
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
 - [Analytical Thinking](#analytical-thinking)
-- [Digital Marketing and E Commerce]. (#digital-marketing-and-e-commerce)
-
+- [Digital Marketing and E Commerce] (#digital-marketing-and-e-commerce)
+- [Google UX Design] (#google-ux-design)
+- 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
 |---|---|---|
