@@ -509,7 +509,8 @@ As an example, at least one billion people in the world live with a disability. 
 
 # Google UX Design
 
-
+ For a user to have a good experience, the product needs to be:
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7c0bf262-c8d8-4ba4-b841-7343f9f5c371)
 
 
 
