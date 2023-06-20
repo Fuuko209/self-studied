@@ -4,8 +4,8 @@
 - [Power BI](#power-bi)
 - [Power Platform](#power-platform)
 - [Analytical Thinking](#analytical-thinking)
-- [Digital Marketing and E Commerce] (#digital-marketing-and-e-commerce)
-- [Google UX Design] (#google-ux-design)
+- [Digital Marketing and E Commerce](#digital-marketing-and-e-commerce)
+- [Google UX Design](#google-ux-design)
 - 
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
@@ -507,6 +507,7 @@ As an example, at least one billion people in the world live with a disability. 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8115574e-b3d3-4d1c-9b3c-3491e6188c48)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d8880ec7-b913-4799-bb65-82ac64579639)
 
+# Google UX Design
 
 
 
