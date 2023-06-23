@@ -529,5 +529,7 @@ As an example, at least one billion people in the world live with a disability. 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7c0bf262-c8d8-4ba4-b841-7343f9f5c371)
 
 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b4da6d53-1474-4e6b-8512-2fa7b5b23abc)
+
 
 
