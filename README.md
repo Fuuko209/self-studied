@@ -6,7 +6,7 @@
 - [Analytical Thinking](#analytical-thinking)
 - [Digital Marketing and E Commerce](#digital-marketing-and-e-commerce)
 - [Google UX Design](#google-ux-design)
-- 
+  
 # SQL
 | Knowledge Link | Completion Date | Knowledge Description | 
 |---|---|---|
@@ -506,6 +506,22 @@ As an example, at least one billion people in the world live with a disability. 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/4b96fa72-dcfd-43ac-b90a-c30963ccc35c)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8115574e-b3d3-4d1c-9b3c-3491e6188c48)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d8880ec7-b913-4799-bb65-82ac64579639)
+
+**Create customer personas for your target audience**
+
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/eb529701-3f37-4105-b0c5-01695102bb54)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/874f359a-2dce-4e69-97f5-487cc8237697)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a08b000c-3d72-439e-a2fa-86b4a2cef741)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/cfc97f6c-be5b-4f06-a04b-3285dd29e5eb)
+
+
+
+
+
 
 # Google UX Design
 
