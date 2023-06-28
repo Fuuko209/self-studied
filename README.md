@@ -519,6 +519,11 @@ As an example, at least one billion people in the world live with a disability. 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/cfc97f6c-be5b-4f06-a04b-3285dd29e5eb)
 
 
+**Consideration: Strategies to build interest in your product or service**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c733993b-fa9b-4a11-887a-ff66d3cb2573)
+
+**Conversion: Stategies to increase the conversion rate on a website**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/507436fd-f8d1-4559-bf8c-4207e660c9f9)
 
 
 
