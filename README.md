@@ -525,6 +525,8 @@ As an example, at least one billion people in the world live with a disability. 
 **Conversion: Stategies to increase the conversion rate on a website**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/507436fd-f8d1-4559-bf8c-4207e660c9f9)
 
+**Loyalty: Strategies to increase th loyalty of customers after a purchase**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3d719756-05dc-4a72-9570-cf39ccbbde28)
 
 
 
