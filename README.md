@@ -314,6 +314,24 @@ COMPREHENSIONS VS MAP
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b65cb6aa-725d-4adc-8c56-2ac181535875)
 
 
+
+**Numby**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/433fbf12-1771-4fe0-92c1-16b4e7cc96fe)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3ff94fa1-d5c8-4755-841a-45bfbe10c31c)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/88f38e71-fdfb-4c45-a5dd-33f3561b5f61)
+Protip: Use T.shape to display colomn first and the rows are following.
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8a1ab2cf-aac1-4a7c-8a0c-35278f9533c1)
+
+Array creation
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/edd19231-2b12-4d93-a2dc-1d66b5904cdb)
+
+
+
+ **Pandas**
+ ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6479ef79-b9b7-45b7-88c0-13ff0821051b)
+
+
+
 # Power Platform
 Power Apps components
 | Power Apps Home Page | Power Apps Mobile | Power Apps Admin Center |
