@@ -325,6 +325,7 @@ Protip: Use T.shape to display colomn first and the rows are following.
 Array creation
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/edd19231-2b12-4d93-a2dc-1d66b5904cdb)
 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6eb0f7ab-8a99-421c-b867-5370889b1156)
 
 
  **Pandas**
