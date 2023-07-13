@@ -327,6 +327,39 @@ Array creation
 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6eb0f7ab-8a99-421c-b867-5370889b1156)
 
+Indexing & Slicing Arrays
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/194a48e7-87b0-4d3f-ab7d-7d5ee34282b6)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8707506b-685c-4562-8d39-643f2a09fda4)
+
+Filtering Arrays
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4a14405-0857-4a59-8289-3739356bc4ff)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a3aaa1d6-1f85-42cf-aad0-155bbbff9b5a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/dbe700e6-d70c-4a91-9a6a-41adaf6a26a3)
+
+Modyfying Array Values
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/478889c8-5a69-4e28-9b5d-8b213c9c37e4)
+
+The Where Function
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e2523ba5-575a-4e7b-b63b-94d8fdcce012)
+
+Array aggregation methods
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ad8f2fbc-a0d0-46ec-a53b-36ab3f2b5e66)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/064608e8-0de1-49f8-b56f-96945758f33a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/911f406d-55c4-43ae-af1d-b4ab3ac337a5)
+
+Array Function
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/556359f5-2958-4bb1-b054-4652aa4ecd61)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6ae39deb-dac5-4d23-9185-e7da27eeade4)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2f28b81a-f26f-4d32-8787-0196662eb007)
+
+
+
 
  **Pandas**
  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6479ef79-b9b7-45b7-88c0-13ff0821051b)
