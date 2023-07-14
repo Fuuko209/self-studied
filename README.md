@@ -392,6 +392,31 @@ Fitering Series
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/28ab252c-44cc-499c-b780-cd5b93383965)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/66fd57c2-7ffc-4547-b22c-0fad109c7b0d)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1c445a3e-b749-42fa-bf46-49e097f5ffcf)
+Sorting Series
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1c09397a-2465-457d-80a9-6957dd32bca7)
+Arithmetic Operators & Methods
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/466c8842-b78c-4d7e-98cc-58f55b1083ea)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/77c67fd8-6241-41ae-a879-ed9ecb83b0e2)
+Numeric Series Aggregation
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c1becbe8-348b-430e-9e78-7cdb553c4005)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2ad30ea7-71e4-43f8-9e0c-668eb0540a7d)
+Categorical Series Aggregation
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/70f6d52f-786a-4028-8ad5-3ab2aaa91a06)
+Missing Data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/869f919d-1c03-4ce9-a947-b44818e118c5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/43887224-e1a9-40d3-b1e1-fcdb941a3d56)
+Check missing data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7df1526f-75cd-4d9f-814c-9d522a3b4533)
+Handling with missing data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3004ab6f-e4a3-4652-b71d-4c7ee2afdf33)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0e9085ab-0246-4102-ba2f-d1ed32a71cb0)
+
+Apply() Method
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/42d7a3ba-7f64-4955-8f23-7dae04bcdb20)
+Where() Method
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c1ad8e32-b068-4c04-9188-0a389868c031)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/38d7a5d7-5914-4a19-8ae9-91c1124d9e37)
+
 
 
 # Power Platform
