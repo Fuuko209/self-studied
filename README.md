@@ -1,4 +1,4 @@
-## Table of Contents
+torization## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
@@ -358,12 +358,40 @@ Array Function
 
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/2f28b81a-f26f-4d32-8787-0196662eb007)
 
+Vectorization
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/149bc86d-88aa-42ce-90b3-5a9dfc450030)
+
+Broadcasting
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/96cc48e2-c7cc-479b-92b6-a3ac1a878efe)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/aeaf42ad-1a5a-491c-b0dc-3c3c92e0e086)
 
 
 
  **Pandas**
  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6479ef79-b9b7-45b7-88c0-13ff0821051b)
+**Pandas series**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5fa6b0ea-37fb-4305-8c10-e165c3544561)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8e544ce0-d84a-42ec-9297-1358ef575839)
+**Pandas data types**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d174a894-ce7c-4b6b-9136-3941cf9ecb11)
+**Type conversion**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/91a1a19b-f12c-401e-8b38-78dfe1821dab)
 
+**Series Indexing**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/78d6192c-9362-43a6-a780-c430d9b2894e)
+
+.iloc[]
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/115c440f-41d2-48b8-ae69-2d3acc108d4f)
+.loc[]
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e3848894-d831-4f10-8851-cde78b794431)
+Reseting the index
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0d4056df-e539-4e7a-aace-7b02bd101024)
+ex: my_series.reset_index(drop = True)
+Fitering Series
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/28ab252c-44cc-499c-b780-cd5b93383965)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/66fd57c2-7ffc-4547-b22c-0fad109c7b0d)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1c445a3e-b749-42fa-bf46-49e097f5ffcf)
 
 
 # Power Platform
