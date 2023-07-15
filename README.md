@@ -417,6 +417,50 @@ Where() Method
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/c1ad8e32-b068-4c04-9188-0a389868c031)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/38d7a5d7-5914-4a19-8ae9-91c1124d9e37)
 
+### DataFrame
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b7edf107-a812-48ad-8344-1eb90c63189f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/02f158b8-e2be-4b60-b0fc-4f7d52141303)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e4f383ad-f451-4eae-bbb2-94988ad976de)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf0b779f-202e-426f-91df-8edfff85e73f)
+
+Exploring a DataFrame
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/92c88fd4-9a99-4ff9-b8d8-f9115a38ef89)
+
+Accessing DataFrame Columns
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/78bffad8-6561-4536-8a1b-75cc1d9bd611)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b9070caa-7add-460e-aad5-ce68425cf284)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e826fb9a-fa3f-4450-b05c-d60247cb5099)
+
+Accessing Data with iloc
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/59607ab2-7b28-43fe-ae96-e47b51496297)
+Accessing Data with loc
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/01f73625-2ed9-4f3f-ba5d-b1c9d61a93af)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/95bceca2-8556-4a07-8f9d-b8d2599c34fc)
+
+Dropping rows & columns
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/83d534c7-84e1-4dd6-96f6-b51497aebe64)
+
+Indetifies duplicate rows
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fa09efd3-9ddb-45c1-8375-1f54b235e89b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6c43703b-b10d-4654-bd11-2504b5d6ebe9)
+
+Drop dublicate rows
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/911822c6-fd33-4d9b-af56-84ef0272b47b)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/85a7915e-9e7e-4417-93e8-de038bc123fb)
+
+Missing data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/82e8d336-22c4-4115-8d8d-f3fd61a09d43)
+Handling with missing data
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6869f8dd-046a-4a17-8b9e-a853020b3ae7)
+Filter Dataframe
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c68ae563-2a84-466e-8f90-762416ea32fe)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3367ec2f-a028-40b8-b17c-91a5ff559ce7)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a8474893-56e1-400e-87e7-b9c97e4f1e18)
+Sort Dataframe
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1a1a0327-1452-44e4-bcf4-6366d321bd59)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/569c3a8c-887d-432c-a29e-8e6bed8e03bb)
+
 
 
 # Power Platform
