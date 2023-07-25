@@ -324,7 +324,7 @@ COMPREHENSIONS VS MAP
 
 
 
-**Numby**
+### Numby
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/433fbf12-1771-4fe0-92c1-16b4e7cc96fe)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/3ff94fa1-d5c8-4755-841a-45bfbe10c31c)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/88f38e71-fdfb-4c45-a5dd-33f3561b5f61)
@@ -377,7 +377,7 @@ Broadcasting
 
 
 
- **Pandas**
+ ### Pandas
  ![image](https://github.com/Fuuko209/self-studied/assets/103474817/6479ef79-b9b7-45b7-88c0-13ff0821051b)
 **Pandas series**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/5fa6b0ea-37fb-4305-8c10-e165c3544561)
