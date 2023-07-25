@@ -175,6 +175,8 @@ Lower Bound needs to be placed BEFORE the Upper Bound
 |[Pandas](#pandas) | 25/07/2023 | |
 |[Dataframe](#dataframe) | 25/07/2023 | |
 
+
+
 ### Data Type
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f11f3211-b2ff-4b6a-8e1b-529e185199a9)
  USE TYPE FUNCTION TO DETECT DATA TYPE
