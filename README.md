@@ -168,11 +168,18 @@ Lower Bound needs to be placed BEFORE the Upper Bound
 
 # Python
 
+| Knowledge Link | Completion Date | Knowledge Description | 
+|---|---|---|
+|[Fundamentals](#fundamentals) | 25/07/2023 | |
+|[Numpy](#numby) | 25/07/2023 | |
+|[Pandas](#pandas) | 25/07/2023 | |
+|[Dataframe](#dataframe) | 25/07/2023 | |
+
 ### Data Type
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f11f3211-b2ff-4b6a-8e1b-529e185199a9)
  USE TYPE FUNCTION TO DETECT DATA TYPE
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/c626686f-2b9b-4030-9ac1-8007da1500b0)
-USE TYOE CONVERSION
+USE TYPE CONVERSION
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d390a732-089b-4f72-bfd2-ef89fce2315f)
 MUTABILITY
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d8e206c0-1bbf-4c54-9b3b-bbe7cb5dee9e)
