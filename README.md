@@ -470,6 +470,29 @@ Sort Dataframe
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1a1a0327-1452-44e4-bcf4-6366d321bd59)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/569c3a8c-887d-432c-a29e-8e6bed8e03bb)
 
+Renaming Columns
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/93342346-997e-4602-ae0f-523e2cddb0c0)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a5782479-4319-4ba6-9b3d-c792a0919e20)
+
+Reorder Columns
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1147ba4b-04cb-4983-8cc3-82821eea5504)
+
+Arithmetric Columns Creation
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3f3a3360-cc75-4039-85e1-2b40cd2fb1c2)
+Bolean Columns Creation
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fe4d3199-d56c-4ff6-b544-d6b45622ad1b)
+Numpy Select
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6f967933-b19d-407f-a83b-de04a206930e)
+
+Mapping Values To Columns
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fab49bb0-52a6-45af-a9ef-c9efd4eb6dac)
+
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/614182e5-88ab-4d00-ad5b-1c16761f9a6c)
+
+Column Creation With Assign
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/604ddea0-ef3c-496a-b52a-766b587765f8)
+
+
 
 
 # Power Platform
