@@ -509,6 +509,22 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/d831cc4c-8c4d-4f9b-8bc4-794264df2d7c)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/08ae6884-4747-4fa3-a1f3-5df77e453372)
 
+## Aggregating & Reshaping Dataframes
+**Aggregating Dataframes**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1fbede8d-50a2-4a59-8f68-d6cabe9d9495)
+
+**Grouping a Dataframe**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/dfe92133-df96-4917-8ba7-fcf7a282170b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/123f1ed0-0666-4b19-91e6-a58d8daaadc7)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2e2e569b-6106-485f-973c-84389ba207f3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf7311a7-b307-423e-84be-a4f0bf4004e1)
+
+**Multi-index Dataframes**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/28b0e887-5873-4c00-ad81-8020f86e519c)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/248d3b8b-5d50-4981-ae78-936baa8a87e3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ef1c9b3e-a59e-4891-abe4-13d110b2459e)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c4fbd3ef-9762-4aaa-b193-3aa7d1f81289)
+
 
 
 # Power Platform
