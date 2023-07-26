@@ -492,6 +492,22 @@ Mapping Values To Columns
 Column Creation With Assign
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/604ddea0-ef3c-496a-b52a-766b587765f8)
 
+**Pandas Data Types**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d5e44372-09d6-4152-8011-47a0ec9e0f57)
+The categorical Data Type
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/531b9dda-0e47-4c1f-bfd0-e5c4c1025f89)
+
+Type Conversion
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/45f72b91-6f91-4105-a008-844802448c68)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bfa5ab2f-bb5f-4f94-88b5-03502c2c32c5)
+
+**Memory Optimization**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a2661e47-b1e1-47da-af85-bf12f87909d1)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/76ba4e8d-cb13-40d0-ad8b-3c067888b3fc)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c437c12b-d5fb-469c-ab84-c19ca5a8453b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b5d747a3-7288-4273-b15c-67655ac475c9)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d831cc4c-8c4d-4f9b-8bc4-794264df2d7c)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/08ae6884-4747-4fa3-a1f3-5df77e453372)
 
 
 
