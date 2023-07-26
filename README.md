@@ -544,6 +544,24 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/70af8f60-c45a-436d-a7cf-8a2bce52dbca)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/1b3aa9eb-113c-4bb7-bc4e-53caaf1c2039)
 
+## Data Visualization
+**The Plot Method** 
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b335af32-0de8-4976-95d2-e2f939f83e49)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/66e57ef6-ccb0-439e-969c-7010ded2a546)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7daa56cc-6ed0-4963-a39e-777227297ce9)
+
+**Chart Formatting**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c2f45650-6dee-48b0-8c02-2f01795be4b5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b0b1a583-4954-45da-9a9d-bd7772c7e19f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8650ad6b-4221-4246-bb87-f2d244b6e24b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f39f989a-37a8-4c84-8bf4-528aa64a54b9)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5b13fd75-955f-4c3c-90ee-80ab249c5e00)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/df76279b-30d1-469b-be64-3a26232feb5f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f2f20bda-e542-4104-b941-f07802947483)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/fe6f9957-35d3-4275-8140-dc1c8fcee7a5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a10147d8-bf1c-446f-a2e5-a0454a97d8b4)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/cdb1955b-420a-446b-ba4c-6ed0a3c63456)
+
 
 
 
