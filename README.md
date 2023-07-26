@@ -525,6 +525,26 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/ef1c9b3e-a59e-4891-abe4-13d110b2459e)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/c4fbd3ef-9762-4aaa-b193-3aa7d1f81289)
 
+**Aggregating Groups**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d91b2dde-ccf8-4379-be11-c7acd0ad6c0f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/15251884-5240-49e1-a703-db9a5f7e1d4a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/af1d56a2-3e75-4f78-880d-3cf2c914eb63)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f5b3f7e4-4c65-483b-bde9-e67bf4e1d54f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1368bc7e-c11b-4f1f-8c78-84e7f202592c)
+
+**Pivot Tables**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d2a524ba-aa5a-4531-a171-e61330dc3daa)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/76b21aed-940e-4b08-a98b-9bfcf60f742a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a3a5ba3a-d10f-4455-b2d1-421526dac01a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ff1010c1-ba70-4c84-a1f9-bb20a79bb5a6)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5e88ab2b-df4c-4f01-b648-0d9c81a7913a)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/78a7e50e-eafe-49cc-b9df-260d44e68233)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5b35c6c0-b483-4891-a44a-56d38afcf183)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c2c21a6f-bb69-4ba4-8778-d9e6f6bcf202)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/70af8f60-c45a-436d-a7cf-8a2bce52dbca)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1b3aa9eb-113c-4bb7-bc4e-53caaf1c2039)
+
+
 
 
 # Power Platform
