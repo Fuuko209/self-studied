@@ -567,7 +567,12 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/b717abee-4e97-4b16-a13b-b0ecee4b1b3d)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/fc30fda5-09a0-4cdb-b5b3-7bb99e9b4aa5)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7a2bfee2-49aa-42f9-82c6-e9473ea248a3)
-
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f745ea12-28dd-4826-8cb3-596c7bd83a18)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ebd2d035-16c6-4c07-86b0-a2685f01c976)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/dbebceb9-f182-4180-83ff-7f8cfb430570)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f1c0a8be-9389-4d52-bd43-90e1a183de27)
+**Saving Chart**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/82541ae8-bccf-4cba-8aba-2a4f2c7467af)
 
 
 
