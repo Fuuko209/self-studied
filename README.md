@@ -574,6 +574,31 @@ Type Conversion
 **Saving Chart**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/82541ae8-bccf-4cba-8aba-2a4f2c7467af)
 
+### Times in Python and Pandas
+**The DateTime Data type**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/58984279-e829-41d4-bf08-46a0f53cb3a5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b7eee32c-1dc0-4ce2-b284-9011da499cfb)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5ef90c1c-bc54-41d8-aa35-fc67b8814ea1)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1e191ca2-b1bb-442f-835f-f2f49671b042)
+**Formating & Parting**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/06dc7148-ac79-424c-ba63-e02663287036)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f0641769-196e-4493-813a-8c77706e0814)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/de900caf-d47e-4734-ac3c-cb2f6bafe5b5)
+
+**Time Deltas**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/08f9ae53-d2bf-4e09-a2e8-104bda3fc2d2)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/92a2bda6-1c0b-4f94-9428-7a60c54dc451)
+
+**Datetime Indices**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d59cd97f-3417-4907-9afe-8eccdc53fddb)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/16db12c6-5186-4d1b-8237-a395a66069de)
+
+**Shifting Series**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/46aa5925-49f7-4ec3-ab04-f0d7b3d7a314)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2b01c4b4-9d8c-4231-bbd1-23179988a8ce)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/724087ed-4c53-4824-8c91-d211c3982887)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/67f7c913-5456-4d91-a8e4-2f5c918fff92)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/74221c52-66fd-400a-9002-b1e6e04f37d5)
 
 
 
