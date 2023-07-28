@@ -1,4 +1,4 @@
-torization## Table of Contents
+## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
@@ -617,15 +617,31 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf5aabce-a281-4338-91b3-7d9fdac408bf)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/08ca320b-953e-44a4-ad4b-5022e0a52756)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/8e588795-e2ca-46c8-b19a-186b916bfedc)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/5756a79d-98fb-444e-a562-f09c2d50d0ea)
 
 **SQL Databases**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/729d09d0-abfd-436f-87a8-ddda103034ae)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/3c75f82f-24fb-45fe-8e50-d71e1582245d)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/76b8460b-0dda-4c6a-9f0b-f974a5d556ac)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7349dc0e-539b-469f-9f3c-ad83c66944a8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2fef6550-3fce-4f14-a76d-475a733496b8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9d25d0ca-379f-4056-9a88-1836b166085a)
 
 **Addition Format**
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/cba3bb45-8ccb-4aba-8edf-bba9fd020e7b)
+
+### Joinng DataFrames
+**Combining Basics**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ebff1701-23e2-4e4e-a7cc-6fc0ad1845d5)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/1faebcea-3e11-4ee0-a4a8-b79ae8709195)
+**Appending**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3e86dc90-4d59-469b-afba-8a269526cbf9)
+**Join**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/040c763b-4b78-4b31-b161-657fa82a496e)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8782760b-24e0-441b-b349-9803c35db5d4)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bbb3c3d2-29bd-4eef-960a-4a8e8b9a6703)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7cc83db7-fea4-4864-b89d-5d82d926f967)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2fe5119f-42e6-465f-892e-ce069f36bb7d)
 
 
 
