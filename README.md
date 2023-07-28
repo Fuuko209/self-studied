@@ -600,6 +600,34 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/67f7c913-5456-4d91-a8e4-2f5c918fff92)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/74221c52-66fd-400a-9002-b1e6e04f37d5)
 
+### Importing & Exporting Data
+**Preprocessing Options**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/098aa732-2f0f-4974-ae34-755d90cc12e3)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9a65c91d-aeb9-4a19-b102-02aaa77ba865)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/61b0a788-c3fd-4f9a-b6a5-f3d6a288b724)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ceffcb96-4d96-4c57-b9d4-1425ad23c939)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7d6a56cc-4fa7-42b8-9997-07ff335a0afd)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a9a2a42d-8bb1-4fb4-b327-6ec496cf0af8)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f61b25ad-83eb-422f-b2a1-22ee068d11a7)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ff04e311-30ca-4ad5-84f2-21cfffb56364)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e9bb16d2-4f73-44e9-8e29-d724069f799c)
+
+**Flat Files**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/318c05cc-64d0-4a98-85fd-04b957c5e505)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf5aabce-a281-4338-91b3-7d9fdac408bf)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/08ca320b-953e-44a4-ad4b-5022e0a52756)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/8e588795-e2ca-46c8-b19a-186b916bfedc)
+
+**SQL Databases**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/729d09d0-abfd-436f-87a8-ddda103034ae)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/3c75f82f-24fb-45fe-8e50-d71e1582245d)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/76b8460b-0dda-4c6a-9f0b-f974a5d556ac)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7349dc0e-539b-469f-9f3c-ad83c66944a8)
+
+**Addition Format**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/cba3bb45-8ccb-4aba-8edf-bba9fd020e7b)
+
+
 
 
 # Power Platform
