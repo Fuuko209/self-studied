@@ -657,6 +657,12 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7e58590e-646f-43ef-b56b-1acb220bfe14)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/e52dfe31-3aaa-4ae8-b824-84c904eed15d)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/f5544df8-02a4-4a07-a9d3-8e4ea3a60a84)
+**Chart Types**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/08934471-7e70-40c7-aa5a-a08036085e4d)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/90bafb95-ba15-498f-9ed6-5e81b4024c62)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/0a097a4c-92c0-48b3-ac44-8e2ed10cbcdd)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/a4cffba3-5692-434a-bb52-40827fd3074d)
+
 
 
 # Power Platform
