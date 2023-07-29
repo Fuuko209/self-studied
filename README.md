@@ -643,7 +643,20 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/7cc83db7-fea4-4864-b89d-5d82d926f967)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/2fe5119f-42e6-465f-892e-ce069f36bb7d)
 
+### Data Visualize
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/903ee2cd-404f-46d6-b504-a5a286ea8e00)
 
+### Matplotllib
+**Basis**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/958601ee-96c0-47d2-b6f3-db8921b1a816)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/6eece11c-796c-4cfe-ae86-a1aba7b5c8b6)
+**Object _Oriented**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e9fc4f47-3872-4e6d-a564-9c249769e551)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/aa4c789e-45fc-4341-9bac-8d5733acfbc6)
+**Chart Formating**
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/7e58590e-646f-43ef-b56b-1acb220bfe14)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/e52dfe31-3aaa-4ae8-b824-84c904eed15d)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/f5544df8-02a4-4a07-a9d3-8e4ea3a60a84)
 
 
 # Power Platform
