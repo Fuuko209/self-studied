@@ -662,6 +662,17 @@ Type Conversion
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/90bafb95-ba15-498f-9ed6-5e81b4024c62)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/0a097a4c-92c0-48b3-ac44-8e2ed10cbcdd)
 ![image](https://github.com/Fuuko209/self-studied/assets/103474817/a4cffba3-5692-434a-bb52-40827fd3074d)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2e724f9a-ded4-4d5f-8c9f-f0137f837973)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/2eddc417-ee39-4c58-94cc-dea87bf0059f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9d8ddf85-7a96-435d-8333-6c6512383045)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/4cb68ee2-5108-43bf-83a0-55fe02a38ead)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/bf7a2087-bbcc-4bb5-b21c-d9d84ed25555)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/ace7e2d0-cac7-4de8-b927-70c6f457aa8b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/dacd5615-8624-41fb-89a7-4f64362f5b89)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/d01515e0-1ebd-44a1-90b1-0fc46b5fec46)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/b583f4e4-4f22-4a4c-b37a-50ee7a4a0f5b)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/c35e621d-2c7b-44fb-aeed-4ec0395eb24f)
+![image](https://github.com/Fuuko209/self-studied/assets/103474817/9f2cb567-7f73-4b31-871e-d4525dfd9aa3)
 
 
 
